@@ -36,14 +36,6 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -51,6 +43,30 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
       width="40"
       height="40"
     />
@@ -91,22 +107,6 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
       width="40"
       height="40"
     />
