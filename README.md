@@ -1,11 +1,11 @@
 <p align="center">
   <!-- <a href="#">
     <img align="center" width="280" src="signature.png" />
-  </a>
+  </a> -->
   <a href="#">
-    <img align="center" width="510" src="banner.gif" />
+    <img align="center" width="40%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
   </a>
-</p> -->
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
