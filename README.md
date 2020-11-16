@@ -111,6 +111,14 @@
       height="40"
     />
   </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg"
+      alt="jquery"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ### Find me around the web 🌎:
