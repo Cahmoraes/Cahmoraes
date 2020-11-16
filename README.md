@@ -27,7 +27,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Compasso UOL**.
+- 👨‍💻 I'm currently working full-time at **<a href="https://compasso.com.br/" target="_blank">Compasso UOL</a>**.
 - 👨‍💻 I was a front-end develover at **SBT**.
 - 🌱 Learning more about and studying: **React, Node and JavaScript**.
 - 💙 Interests: games 👾 and sports.
