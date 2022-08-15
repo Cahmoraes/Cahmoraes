@@ -30,7 +30,7 @@
 - 👨‍💻 I'm currently working full-time at **<a href="https://compasso.com.br/" target="_blank">Compass UOL</a>**.
 - 👨‍💻 I was a front-end develover at **<a href="https://www.sbt.com.br/" target="_blank">SBT</a>**.
 - 🌱 Learning more about and studying: **React, Node and JavaScript**.
-- 💙 Interests: games 👾 and sports.
+- 💙 Interests: books and wokout.
 
 ### Find me around the web 🌎:
 
